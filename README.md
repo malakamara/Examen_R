@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Analyse Statistique des Données AVC
 
 ## Description du projet
@@ -183,6 +183,5 @@ Pour toute question ou suggestion, veuillez ouvrir une issue sur le dépôt du p
 - [Documentation Quarto](https://quarto.org/docs/)
 - [Documentation R](https://www.r-project.org/help.html)
 - [Tidyverse](https://www.tidyverse.org/)
-=======
-# Projet_R
->>>>>>> b382f6d1cdb90549d5547910834bbf2d4b17b6cc
+
+
