@@ -1,0 +1,45 @@
+project:
+  type: default
+  output-dir: docs
+
+title: "Analyse Statistique des Données AVC"
+subtitle: "Rapport Professionnel d'Analyse Exploratoire"
+author: "Équipe d'Analyse Statistique"
+date: today
+lang: fr
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: show
+    code-tools: true
+    fig-width: 10
+    fig-height: 6
+    fig-dpi: 300
+    embed-resources: true
+  pdf:
+    documentclass: article
+    geometry:
+      - top=30mm
+      - left=20mm
+      - heightrounded
+    fontsize: 11pt
+    linestretch: 1.2
+    toc: true
+    number-sections: true
+    colorlinks: true
+    fig-width: 6
+    fig-height: 4
+  docx:
+    toc: true
+    number-sections: true
+
+execute:
+  echo: true
+  warning: false
+  message: false
+  cache: true

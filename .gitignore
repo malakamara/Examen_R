@@ -1,0 +1,37 @@
+# Quarto
+docs/
+.quarto/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+
+/.quarto/
+**/*.quarto_ipynb
