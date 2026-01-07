@@ -96,9 +96,9 @@ cat("Dimensions:", nrow(avc_data), "lignes ×", ncol(avc_data), "colonnes\n\n")
 
 ```
 
-**Interprétation** : Le dataset contient **875 patients** (lignes) et **133 variables** (colonnes). Cette structure indique un dataset riche avec de nombreuses variables cliniques, démographiques et de suivi. Les premières lignes affichées permettent de vérifier que l'importation s'est bien déroulée et de visualiser le format des données.
+**Interprétation** : Le dataset contient **875 patients** (lignes) et **133 variables** (colonnes). Cette structure indique un dataset riche avec de nombreuses variables cliniques, démographiques et de suivi.
 
-## Préparation et nettoyage des données
+## Préparation des données
 
 Cette section prépare les données pour l'analyse en :
 
